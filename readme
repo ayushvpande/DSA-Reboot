@@ -1,0 +1,39 @@
+
+# Striver's DSA Journey — Java
+
+My daily journey of learning Data Structures and Algorithms
+using Java, following Striver's Master DSA Patterns sheet.
+
+## Goals
+- Build strong problem-solving fundamentals.
+- Learn and apply common DSA patterns.
+- Analyze time and space complexity.
+- Prepare for service-based and product-based company interviews.
+
+## Progress
+
+| Topic | Problems Solved |
+|---|---:|
+| Arrays | 0 |
+| Hashing | 0 |
+| Two Pointers | 0 |
+| Binary Search | 0 |
+| Linked Lists | 0 |
+| Stacks and Queues | 0 |
+| Trees and Graphs | 0 |
+| Dynamic Programming | 0 |
+
+## My Approach
+
+For every problem, I aim to document:
+- The problem statement and source.
+- The approach and key observation.
+- Time and space complexity.
+- Edge cases and lessons learned.
+
+## Resources
+- [Striver's 180 Master DSA Patterns](https://takeuforward.org/prep-hub/strivers-180-master-dsa-patterns)
+- [Striver SDE Sheet — GitHub reference](https://github.com/pratyushpanda16/striver-sde-sheet)
+
+Solutions are written and explained by me as part of
+my learning journey.
