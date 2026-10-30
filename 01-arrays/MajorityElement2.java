@@ -1,4 +1,6 @@
-int threshold = nums.length / 3;
+class Solution {
+    public List<Integer> majorityElement(int[] nums) {
+        int threshold = nums.length / 3;
         Map<Integer, Integer> frequency = new TreeMap<>();
         List<Integer> answer = new ArrayList<>();
  
@@ -22,3 +24,7 @@ int threshold = nums.length / 3;
  
         return answer;
     }
+
+        
+    
+}
